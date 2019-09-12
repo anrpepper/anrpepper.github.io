@@ -1,21 +1,25 @@
 .imgfd {background: url('../images/fondDegradeBleu.gif'); background-size: 100%}
 .lignenoire {border-bottom: 2px solid black}
 .lignegrise {border-bottom: 2px solid lightgrey}
-.lignebleue {border-bottom: 2px solid #2b4e6a}
-.lignesbleues {border-bottom: 2px solid #2b4e6a; border-right: 2px solid #2b4e6a}
-.fond {background-color: #EAE1C4; border-radius: 10px}
-.fond2 {background-color: lightgray; border-radius: 10px}
 .top {vertical-align: top}
 .middle {vertical-align: middle}
 .bottom {vertical-align: bottom}
 .center {text-align: center}
+.left {text-align:left}
 .right {text-align: right}
 .justify {text-align: justify}
 .maj {text-transform: uppercase}
 .ital {font-style: italic}
 .gras {font-weight: bold}
 .petit {font-size: smaller}
-.grand {font-size: larger}
-.titre {font-size: x-large}
+.grand {font-size: large}
+.xgrand {font-size: x-large}
+.titre {font-size: xx-large}
 .cache {display:none}
 .txtbleu {color: #2b4e6a}
+
+.fixe {position: fixed; width: 100%; background-color:pink; height: 50px; border-bottom: 2px solid #2b4e6a; top: 0; left:0}
+
+a:link {color: #2b4e6a; text-decoration: none}
+a:hover {font-size: 150%; color: black}
+a:visited {font-size: 100%; color: #2b4e6a; text-decoration: none} 
