@@ -10,7 +10,8 @@
 .maj {text-transform: uppercase}
 .ital {font-style: italic}
 .gras {font-weight: bold}
-.+petit {font-size: smaller}
+.pluspetit {font-size: smaller}
+.plusgrand {font-size: larger}
 .grand {font-size: large}
 .xgrand {font-size: x-large}
 .titre {font-size: xx-large}
