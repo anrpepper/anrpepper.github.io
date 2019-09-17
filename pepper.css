@@ -1,0 +1,29 @@
+.lignenoire {border-bottom: 2px solid black}
+.lignegrise {border-bottom: 2px solid lightgrey}
+.top {vertical-align: top}
+.middle {vertical-align: middle}
+.bottom {vertical-align: bottom}
+.center {text-align: center}
+.left {text-align:left}
+.right {text-align: right}
+.justify {text-align: justify}
+.maj {text-transform: uppercase}
+.ital {font-style: italic}
+.gras {font-weight: bold}
+.pluspetit {font-size: smaller}
+.plusgrand {font-size: larger}
+.grand {font-size: large}
+.xgrand {font-size: x-large}
+.titre {font-size: xx-large}
+.cache {display:none}
+.txtbleu {color: #2b4e6a}
+.clear {color: white}
+.circle{border-radius: 50%}
+.margedroite{margin-right: 10 px}
+.margegauche{margin-left: 10 px}
+
+.fixe {position: fixed; width: 100%; height: 50px; background-color: white; border-bottom: 2px solid #2b4e6a; top: 0; left: 0}
+
+a:link {color: #2b4e6a; text-decoration: none}
+a:hover {font-size: 100%; color: black; font-weight: bold}
+a:visited {font-size: 100%; color: #2b4e6a; text-decoration: none} 
