@@ -1,4 +1,3 @@
-.imgfd {background: url('../images/fondDegradeBleu.gif'); background-size: 100%}
 .lignenoire {border-bottom: 2px solid black}
 .lignegrise {border-bottom: 2px solid lightgrey}
 .top {vertical-align: top}
@@ -11,7 +10,7 @@
 .maj {text-transform: uppercase}
 .ital {font-style: italic}
 .gras {font-weight: bold}
-.petit {font-size: smaller}
+.+petit {font-size: smaller}
 .grand {font-size: large}
 .xgrand {font-size: x-large}
 .titre {font-size: xx-large}
