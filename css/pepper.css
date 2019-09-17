@@ -19,8 +19,8 @@
 .txtbleu {color: #2b4e6a}
 .clear {color: white}
 .circle {border-radius: 50%}
-.margedroite {margin-right: 20px}
-.margegauche {margin-left: 20px}
+.margedroite {margin-right: 10px}
+.margegauche {margin-left: 10px}
 
 .fixe {position: fixed; width: 100%; height: 50px; background-color: white; border-bottom: 2px solid #2b4e6a; top: 0; left: 0}
 
